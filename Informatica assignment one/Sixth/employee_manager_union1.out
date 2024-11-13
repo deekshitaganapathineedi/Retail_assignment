@@ -1,0 +1,9 @@
+#emp_id,emp_name,manager_id,department,salary,hire_date,email
+3,Alice Brown,101,IT,70000,2019-09-10,alice.brown@example.com
+6,David Green,101,Engineering,75000,2018-03-10,david.green@example.com
+7,Eva White,101,Engineering,78000,2019-06-22,eva.white@example.com
+4,Bob Johnson,102,Finance,80000,2022-02-25,bob.johnson@example.com
+8,Frank Black,102,Finance,85000,2017-05-30,frank.black@example.com
+9,Grace Blue,102,Finance,82000,2020-08-15,grace.blue@example.com
+10,Henry Grey,103,Sales,60000,2021-01-10,henry.grey@example.com
+11,Ivy Red,103,Sales,62000,2022-04-18,ivy.red@example.com

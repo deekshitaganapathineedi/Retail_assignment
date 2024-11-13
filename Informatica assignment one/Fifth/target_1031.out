@@ -1,0 +1,3 @@
+#emp_id,emp_name,manager_id,department,salary,hire_date,email
+10,Henry Grey,103,Sales,60000,2021-01-10,henry.grey@example.com
+11,Ivy Red,103,Sales,62000,2022-04-18,ivy.red@example.com

@@ -1,0 +1,4 @@
+#emp_id,emp_name,manager_id,department,salary,hire_date,email
+3,Alice Brown,101,IT,70000,2019-09-10,alice.brown@example.com
+6,David Green,101,Engineering,75000,2018-03-10,david.green@example.com
+7,Eva White,101,Engineering,78000,2019-06-22,eva.white@example.com

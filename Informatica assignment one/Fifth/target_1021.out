@@ -1,0 +1,4 @@
+#emp_id,emp_name,manager_id,department,salary,hire_date,emil
+4,Bob Johnson,102,Finance,80000,2022-02-25,bob.johnson@example.com
+8,Frank Black,102,Finance,85000,2017-05-30,frank.black@example.com
+9,Grace Blue,102,Finance,82000,2020-08-15,grace.blue@example.com

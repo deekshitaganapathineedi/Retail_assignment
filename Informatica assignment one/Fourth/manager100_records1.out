@@ -1,0 +1,4 @@
+#emp_id,emp_name,manager_id,department,salary,hire_date,email
+1,John Doe,100,IT,60000,2020-01-15,john.doe@example.com
+2,Jane Smith,100,HR,55000,2021-04-20,jane.smith@example.com
+5,Charlie White,100,Marketing,45000,2023-06-05,charlie.white@example.com
